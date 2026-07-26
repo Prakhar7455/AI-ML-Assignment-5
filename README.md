@@ -1,7 +1,8 @@
 **Name: Prakhar Bhardwaj**\
 **Reg No: 23MEI10051**\
 **Application no: IN26011412**\
-**Batch Number: 1(A)**
+**Batch Number: 1(A)**\
+**Email: prakhar.23mei10051@vitbhopal.ac.in**
 
 # AI-ML-Assignment-5
 Employee Attrition Prediction using Decision Tree and Random Forest Classification
